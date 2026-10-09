@@ -66,3 +66,5 @@
 ## 延伸阅读
 
 [ChatGPT Plus 付款失败排查指南](https://mixlivo.com/guides/chatgpt-plus-payment-failed?from=github)
+
+[ChatGPT Plus 充值指南：国内 6 种充值方式对比](https://github.com/wenjiejiang413/chatgpt-plus-chongzhi)
